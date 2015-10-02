@@ -4,5 +4,6 @@ Add a line in origin/master
 ohh I added a line here:)
 Ohh I added an other line here:(
 Let's try to help
+Add a line in master local
 And here!
 First modification in branch admin
