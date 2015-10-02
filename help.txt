@@ -1,13 +1,9 @@
-<<<<<<< HEAD
 help oo help
-=======
-help help lol
->>>>>>> Change third help to lol
 Second modification in master branch!
 Add a line in origin/master
 ohh I added a line here:)
 Ohh I added an other line here:(
 Let's try to help
 Add a line in master local
-And here!
+here!
 First modification in branch admin
